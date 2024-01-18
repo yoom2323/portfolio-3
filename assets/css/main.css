@@ -184,7 +184,7 @@
     opacity: 1;
 }
 
-@media screen and (max-width:501px) {
+@media screen and (max-width:600px) {
     .cursor {
         display: none;
     }
